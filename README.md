@@ -100,6 +100,5 @@ Our team has been using Airflow and DBT but is still early in the process.
 We'd like to see how you'd ensure:
 
 - Clean, well-modeled data
-- Repeatable, scalable pipelines
 - Governance and security best practices
 - Smooth Tableau reporting layer integration
